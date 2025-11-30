@@ -9,9 +9,7 @@
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.3` |
-| **Total Runs** | 256 |
-| **Total Users** | 8 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
